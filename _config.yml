@@ -1,0 +1,28 @@
+name: Nick Rivers
+favicon: null
+layout_spectrum: 0.6367028921376914
+typography_spectrum: 0.6066563841886818
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9606492666061968
+  lightness: 0.6428145233076066
+  saturation: 0.07463032053783536
+  rhythmicContrast: 0.4939351649954915
+purpose: []
